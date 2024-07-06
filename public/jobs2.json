@@ -1,0 +1,90 @@
+{
+  "jobs": [
+
+      {
+        "id": "job001",
+        "title": "Maintenance Technician",
+        "type": "Full-time",
+        "description": "Seeking a skilled maintenance technician to join our team. Responsibilities include performing routine maintenance, troubleshooting and repairing equipment, and ensuring the proper functioning of our facility's systems.",
+        "location": "Atlanta, GA",
+        "salary": "45,000 - 55,000 MAD",
+        "company": {
+          "name": "Acme Manufacturing",
+          "description": "Acme Manufacturing is a leading producer of industrial equipment. We are committed to maintaining a safe and efficient production environment.",
+          "contactEmail": "jobs@acmemanufacturing.com",
+          "contactPhone": "+1 (555) 123-4567"
+        }
+      },
+      {
+        "id": "job002",
+        "title": "Event Coordinator",
+        "type": "Part-time",
+        "description": "We are looking for an organized and detail-oriented event coordinator to help plan and execute our community event series. Responsibilities include venue management, vendor coordination, and event promotion.",
+        "location": "Seattle, WA",
+        "salary": "18 - 22 MAD per hour",
+        "company": {
+          "name": "Community Outreach Foundation",
+          "description": "The Community Outreach Foundation is a non-profit organization dedicated to bringing people together through engaging events and activities.",
+          "contactEmail": "events@communityoutreach.org",
+          "contactPhone": "+1 (555) 987-6543"
+        }
+      },
+      {
+        "id": "job003",
+        "title": "Daycare Assistant",
+        "type": "Full-time",
+        "description": "Growing daycare center is seeking a compassionate and energetic daycare assistant to join our team. Responsibilities include supervising children, leading educational activities, and ensuring a safe and nurturing environment.",
+        "location": "Denver, CO",
+        "salary": "35,000 - 45,000 MAD",
+        "company": {
+          "name": "Bright Beginnings Daycare",
+          "description": "Bright Beginnings Daycare is a family-owned business dedicated to providing high-quality care and early childhood education.",
+          "contactEmail": "careers@brightbeginnings.com",
+          "contactPhone": "+1 (555) 555-5555"
+        }
+      },
+      {
+        "id": "job004",
+        "title": "Carpentry Apprentice",
+        "type": "Apprenticeship",
+        "description": "We are looking for a motivated individual to join our carpentry apprenticeship program. Learn valuable skills in construction, woodworking, and project management under the guidance of experienced carpenters.",
+        "location": "Portland, OR",
+        "salary": "18 - 22 MAD per hour",
+        "company": {
+          "name": "Northwest Construction",
+          "description": "Northwest Construction is a well-respected general contracting firm known for its quality craftsmanship and attention to detail.",
+          "contactEmail": "apprenticeship@nwconstruction.com",
+          "contactPhone": "+1 (555) 333-3333"
+        }
+      },
+      {
+        "id": "job005",
+        "title": "Landscaper",
+        "type": "Seasonal",
+        "description": "Expanding landscape company is seeking experienced landscapers to join our team for the upcoming season. Responsibilities include mowing, trimming, planting, and maintaining the grounds of residential and commercial properties.",
+        "location": "Miami, FL",
+        "salary": "15 - 20 MAD per hour",
+        "company": {
+          "name": "Greenery Landscaping",
+          "description": "Greenery Landscaping is a family-owned business that has been providing high-quality landscaping services for over 20 years.",
+          "contactEmail": "jobs@greenerylandscaping.com",
+          "contactPhone": "+1 (555) 222-2222"
+        }
+      },
+      {
+        "id": "job006",
+        "title": "Hotel Front Desk Clerk",
+        "type": "Full-time",
+        "description": "Upscale hotel is seeking a friendly and customer-oriented front desk clerk to join our hospitality team. Responsibilities include greeting guests, managing reservations, and providing exceptional customer service.",
+        "location": "Las Vegas, NV",
+        "salary": "30,000 - 40,000 MAD",
+        "company": {
+          "name": "Luxury Suites Hotel",
+          "description": "Luxury Suites Hotel is a premier destination known for its luxury accommodations, world-class amenities, and impeccable service.",
+          "contactEmail": "careers@luxurysuites.com",
+          "contactPhone": "+1 (555) 444-4444"
+        }
+      }
+    
+  ]
+}
